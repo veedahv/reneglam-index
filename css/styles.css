@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+}
+
+#carouselExampleControls{
+    width: 90%;
+}
+
+.d-block w-100{
+    height: 15rem;
+}
+
+img{
+    overflow: hidden;
+}
+
+form{
+   margin: 0 5%; 
+}
+
+#exampleInputQuestion{
+    height: 45vh;
+}
+
+.carousel-inner{
+    width: 100%;
+    height: 70vh;
+    overflow: hidden;
+}
